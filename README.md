@@ -35,7 +35,7 @@ https://jamesvelarde.github.io/work-day-scheduler/
 
 ## Screenshot
 
-![Screenshot](/assets/images/screenshot,jpg?raw=true "Optional Title")
+![Screenshot](assets/images/Screenshot.JPG "Screenshot")
 
 ## Built With
 
